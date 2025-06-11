@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: django
-        image: 
+        image: subrato123/django-app
         ports: 
         - containerPort: 8000
